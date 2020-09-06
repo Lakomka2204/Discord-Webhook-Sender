@@ -1,4 +1,7 @@
-﻿using System;
+/*
+separate class file for no reason ¯\_(ツ)_/¯
+*/
+using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
