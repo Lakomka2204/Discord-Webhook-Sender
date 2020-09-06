@@ -1,0 +1,10 @@
+D:\Other\coding\WS\bin\Release\Webhook Sender.exe.config
+D:\Other\coding\WS\bin\Release\Webhook Sender.exe
+D:\Other\coding\WS\bin\Release\Webhook Sender.pdb
+D:\Other\coding\WS\obj\Release\WS.csprojAssemblyReference.cache
+D:\Other\coding\WS\obj\Release\WS.WebhookSender.resources
+D:\Other\coding\WS\obj\Release\WS.Properties.Resources.resources
+D:\Other\coding\WS\obj\Release\WS.csproj.GenerateResource.cache
+D:\Other\coding\WS\obj\Release\WS.csproj.CoreCompileInputs.cache
+D:\Other\coding\WS\obj\Release\Webhook Sender.exe
+D:\Other\coding\WS\obj\Release\Webhook Sender.pdb
